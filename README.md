@@ -24,15 +24,22 @@ After following steps above(First Time Installation).
 Make Sure XAMP is active with Apache and MySQL Server Enabled.
 Open Browser Enter the following URL:
 http://localhost/Sparks-Foundation/
-OR
-
+                                               OR
 http://localhost/Sparks-Foundation/index.php
+
+
 You will land to Homepage of Foundation Bank Website.
+
 Click On actions from Navigation for viewing detail of all Customers and transfering the money.
+
 You will see Customer details in table with deatils like(sender,receiver, balance,date etc.).
+
 Click on view and transact  Button Corresponding Any row of table.
+
 Now We are on Money Transfering Page. Now Enter a Valid Name in To textbox and also Enter Amount, Click on checkbox and finally Click on  Button To Start Transfer.
+
 Make sure the Amount you enter is not grator then current balance of the Person Selected, else it will pop Message.
+
 If the Transaction is successful Message will displayed and Changes made by above Transaction will be updated to customer table.
 
 
